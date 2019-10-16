@@ -1,5 +1,8 @@
 ## Issue : Cant enable and disable touchpad, cuz OS don't recognize touchpad driver.
 
+## Dependencies : 
+ xorg-xinput 
+
 ## Roadmap: 
 
 - Try to find my touchpad software/driver.
